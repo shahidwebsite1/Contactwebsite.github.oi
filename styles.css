@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: #340434;
+  color: white;
+}
+
+.search-container {
+  margin: 10px 0;
+}
+
+.search-box {
+  padding: 10px;
+  font-size: 16px;
+  width: 80%;
+  max-width: 400px;
+  margin: 0 auto;
+  display: block;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+
+.contact-card {
+  background-color: rgba(255, 255, 255, 0.7); /* 0.7 transparency */
+  width: 250px;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+
+.contact-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+
+
+
+body {
+  background-image: url(images/wallpaper.png);
+  background-size: cover; /* Image ko cover karega */
+  background-repeat: no-repeat; /* Image repeat nahi hogi */
+  background-position: center; /* Image center mein hoga */
+}
+
+
+
+
+
+
+
+
+
+
+
